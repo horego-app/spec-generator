@@ -1,0 +1,20 @@
+{
+    "name": "printerous/spec-generator",
+    "description": "Product Specification Generator",
+    "keywords": [
+        "product specification"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ahmadadityakj",
+            "email": "aditya@printerous.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Printerous\\SpecGenerator\\": "src/"
+        }
+    }
+}
